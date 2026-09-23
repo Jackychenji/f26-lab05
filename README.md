@@ -36,3 +36,7 @@ and `npm test`, once you enable workflows on your fork from the Actions tab.
 - Setup: `SETUP.md`
 
 See the Lab 5 handout on the course page for the three milestones you show a TA.
+
+## AI tools used
+
+Claude Code (VS Code extension) running Claude Fable 5.1 (`claude-fable-5-1`) helped read the module, draft `SMELLS.md`, and apply the Milestone 2 change. All findings and the scope line were reviewed by me before committing.
